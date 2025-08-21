@@ -2,9 +2,11 @@
   "name": "expense-tracker",
   "version": "1.0.0",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+ "scripts": {
+  "test": "echo \"Error: no test specified\" && exit 1",
+  "start": "node src/app.js"
+},
+
   "keywords": [],
   "author": "",
   "license": "ISC",
